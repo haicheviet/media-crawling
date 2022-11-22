@@ -1,0 +1,6 @@
+selenium==3.141.0
+scrapy
+pyyaml
+ratelimit
+utils
+webdriver_manager
